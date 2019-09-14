@@ -1,6 +1,7 @@
 ## Code Update
 
-* This code written by Rafael Ruggiero was updated on September 14, 2019 by Ricardo Cezar Volert and Rubens Eduardo Garcia Machado, correcting Python2 overflow errors.
+* Galstep2 is an adaptation and continuation of Galstep code. Being continued by Ricardo Cezar Volert.
+* The original code was written and developed by Rafael Ruggiero (Galstep), however, it was updated on September 14, 2019 by the updated version Galstep2 by Ricardo Cezar Volert and Rubens Eduardo Garcia Machado.
 * Value errors (overflow, double_scalars, etc.) will be resolved gradually, however, the code is functional.
 
 ## About
