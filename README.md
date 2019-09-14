@@ -1,7 +1,7 @@
 ## Code Update
 
 * Galstep2 is an adaptation and continuation of Galstep code. Being continued by Ricardo Cezar Volert.
-* The original code was written and developed by Rafael Ruggiero (Galstep), however, it was updated on September 14, 2019 by the updated version Galstep2 by Ricardo Cezar Volert and Rubens Eduardo Garcia Machado.
+* The original code was written and developed by Rafael Ruggiero ([Galstep 1.0](https://github.com/ruggiero/galstep)), however, it was updated on September 14, 2019 by the updated version Galstep2 by Ricardo Cezar Volert and Rubens Eduardo Garcia Machado.
 * Value errors (overflow, double_scalars, etc.) will be resolved gradually, however, the code is functional.
 
 ## About
@@ -80,7 +80,7 @@ to run this code in OSX, please try [this](https://superuser.com/questions/30275
 
 ## Works which used this code
 
-* [Ruggiero & Lima Neto (2017)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1703.08550)
+* [Ruggiero & Lima Neto (2017)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1703.08550) with Galstep (1.0)
 
 
 ## Disclaimer
