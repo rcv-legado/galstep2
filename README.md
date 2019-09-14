@@ -1,6 +1,7 @@
 ## Code Update
 
 * This code written by Rafael Ruggiero was updated on September 14, 2019 by Ricardo Cezar Volert and Rubens Eduardo Garcia Machado, correcting Python2 overflow errors.
+* Value errors (overflow, double_scalars, etc.) will be resolved gradually, however, the code is functional.
 
 ## About
 
